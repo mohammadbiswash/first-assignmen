@@ -41,16 +41,22 @@ img{
 }
 .top-banner {
 	background-image: url(images/header-bg.png);
+	background-position: center;
+	background-size: cover;
 }
 section {
 	height: 500px;
 	padding: 100px 0px;
 }
-.biography-area{
+.biography-area {
 	background-image: url(images/biography-bg.png);
+	background-position: center;
+	background-size: cover;
 }
-.latest-area{
+.latest-area {
 	background-image: url(images/latest-work-bg.png);
+	background-position: center;
+	background-size: cover;
 }
 .container {
 	width: 1000px;
@@ -68,6 +74,8 @@ section {
 .footer-area {
 	background-image: url(images/footer-bg.png);
 	text-align: center;
+	background-position: center;
+	background-size: cover;
 }
 .massage{
 	color: dimgray;
